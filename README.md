@@ -1,5 +1,7 @@
 <p align = "center">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGolgol&layout=vue" style="heigth:400" />
+</p>
+<p align = "center">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliGolgol&show_icons=true&theme=vue" style="heigth:400" />
 </p>
 </br>
