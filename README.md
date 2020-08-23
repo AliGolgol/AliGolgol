@@ -1,6 +1,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AliGolgol&show_icons=true&theme=vue)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliGolgol&repo=spring-webflux-rest)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliGolgol&repo=spring-webflux-rest)](https://github.com/AliGolgol/spring-webflux-rest)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGolgol&layout=compact)](https://github.com/AliGolgol/spring-webflux-rest)
+
 
 ### Hi there 👋
 
