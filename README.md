@@ -1,11 +1,7 @@
 <p align = "center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGolgol&layout=vue" style="heigth:400" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliGolgol&show_icons=true&theme=vue" style="heigth:400" />
-</a>
-	</p>
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGolgol&layout=vue" style="heigth:400" />
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliGolgol&show_icons=true&theme=vue" style="heigth:400" />
+</p>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliGolgol&repo=spring-webflux-rest" />
 </a>
