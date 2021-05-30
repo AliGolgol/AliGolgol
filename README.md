@@ -1,21 +1,8 @@
 ### Hi there 👋
+As soon as I get to the solution, I think about the next version, because there is always a better solution. This makes me always looking to learn new technologies and practice data structure and algorithm design, pattern design, system design, and so on. In this way, I was able to help myself grow independently.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliGolgol&show_icons=true&theme=vue" style="heigth:400" />
-</br>
-
-
-
-<!--
-**AliGolgol/AliGolgol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p id="socialIcons" align="center">
+    <a href="https://www.linkedin.com/in/ali-golgol/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+</p>
