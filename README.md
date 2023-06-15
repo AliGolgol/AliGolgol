@@ -1,6 +1,5 @@
 ### Hi there 👋
-Over 10 years of experience in building end to end software invariants of domains such as IoT, Retail, Workflow, Electronic Content Management(ECM), and Hospital Information System(HIS) domain.
-Enthusiastic in solving challenging problems of scale. Exposure to technologies and software architecture patterns such as Kafka, NoSQL, and Microservice.
+I am highly enthusiastic about tackling complex issues that require scalable solutions. My expertise involves dealing with diverse software architecture models and technologies, such as Kafka, NoSQL, and microservices.
 
 ---
 <p id="socialIcons" align="center">
